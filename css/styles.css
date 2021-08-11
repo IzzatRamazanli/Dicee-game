@@ -1,0 +1,43 @@
+
+/* Global */
+body{
+    background: #334257;
+    text-align: center;
+    color: #87ddd3;
+    margin: 0;
+    padding: 0;
+}
+p{
+    font-size: 2rem;
+    font-family: 'Indie Flower', cursive;
+}
+img{
+    width: 80%;
+}
+
+
+/* Refresh me */
+.header{
+    font-size: 5.5rem;
+}
+.header h1{
+    margin: 50px auto 50px auto;
+    font-family: 'Lobster', cursive;
+    text-shadow: 5px 0 #232931;
+}
+
+/* Players */
+
+.player{
+    font-size: 1.5rem;
+    display: inline-block;
+}
+
+/* Footer */
+footer {
+    margin-top: 5%;
+    color: #EEEEEE;
+    text-align: center;
+    font-family: 'Indie Flower', cursive;
+  
+}
